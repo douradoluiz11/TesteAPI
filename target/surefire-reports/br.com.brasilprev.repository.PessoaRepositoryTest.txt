@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.brasilprev.repository.PessoaRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.74 s - in br.com.brasilprev.repository.PessoaRepositoryTest

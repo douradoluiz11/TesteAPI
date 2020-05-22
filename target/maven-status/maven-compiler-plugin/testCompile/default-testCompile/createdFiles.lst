@@ -1,0 +1,4 @@
+br\com\brasilprev\ApplicationTests.class
+br\com\brasilprev\repository\PessoaRepositoryTest.class
+br\com\brasilprev\resources\PessoaResourceTest.class
+br\com\brasilprev\service\PessoaServiceTest.class
